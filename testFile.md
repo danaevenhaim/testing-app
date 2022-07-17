@@ -1,8 +1,8 @@
-This is a test file
+this is a test file
 
-It has some lines
+It hAs some lines
 
-and some more
+and Some more
 
 we use them
 
