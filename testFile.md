@@ -1,4 +1,4 @@
-This Is A test file
+ThIS IS A test file
 
 It has some lines
 
