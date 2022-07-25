@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.7.6-1
 file_blobs:
   README.md: af59aec3b117f21c6183f2dc24a294e0c6364259
-  testFile.md: d3843cd9346a7589ea8e63a7a177995b03cd9e5c
+  testFile.md: 936a94115c341f4395135f919785f9f2cdfe0ee5
 ---
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
@@ -19,7 +19,7 @@ file_blobs:
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 testFile.md
 ```markdown
-🟩 1      thiS is A tEsT filE
+🟩 1      THiS is A tEsT filE
 ⬜ 2      
 ⬜ 3      It HAS some lines
 ⬜ 4      
