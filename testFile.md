@@ -1,4 +1,4 @@
-THIS is A tEsT filE
+thiS is A tEsT filE
 
 It HAS some lines
 
