@@ -4,9 +4,9 @@ name: eran test
 file_version: 1.0.2
 app_version: 0.8.9-2
 file_blobs:
-  testFile.md: 2c829dd94e910f7d48d32c259560c6a957444df8
+  testFile.md: 2cfb23a76035368cc06d9bced54a9350454ab8a1
   a.py: e3046eecae07d26804ee7a5fe672353111c04765
-  b.py: f390102dab318776d5ba45903d4f1163527a3e46
+  b.py: 72aa7f97bdc0eee03e0fc0bfe57c3e4665b7347c
 ---
 
 example
@@ -14,12 +14,12 @@ example
 ### 📄 testFile.md
 ```markdown
 ⬜ 10     
-⬜ 11     WOW
+⬜ 11     wow
 ⬜ 12     
-🟩 13     removed the lines
+🟩 13     Removed the lines
 🟩 14     and wrote something new
 🟩 15     who
-⬜ 16     clean file
+⬜ 16     cleaN file
 ⬜ 17     
 ```
 
