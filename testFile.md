@@ -1,6 +1,6 @@
 thIs is A tEsT filE
 
-IT HAS some lines
+IT HAS SOME lines
 
 and some more
 
