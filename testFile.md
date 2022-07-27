@@ -13,5 +13,5 @@ wow
 Removed THE lines
 AND WROTE something new
 WHO
-cleaN file
+cleaN FILE
 
