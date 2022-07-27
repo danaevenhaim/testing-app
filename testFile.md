@@ -10,7 +10,7 @@ TO test
 
 wow
 
-Removed THE lines
+REMOVeD THE lines
 AND WROTE something new
 WHO
 CLEAn file
