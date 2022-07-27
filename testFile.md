@@ -12,6 +12,6 @@ WOW
 
 Removed THE lines
 and wrote something new
-who
+WHO
 cleaN file
 
