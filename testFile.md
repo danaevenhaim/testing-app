@@ -8,7 +8,7 @@ WE use them
 
 TO test
 
-WOW
+wow
 
 Removed THE lines
 AND WROTE something new
