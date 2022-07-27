@@ -1,8 +1,8 @@
-tHis is A tEsT filE
+this is A tEsT filE
 
 IT has SOME lines
 
-and SOME more
+AND SOME more
 
 WE use them
 
