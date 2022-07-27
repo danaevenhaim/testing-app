@@ -2,7 +2,7 @@ tHis is A tEsT filE
 
 IT has SOME lines
 
-AND SOME more
+and SOME more
 
 WE use them
 
