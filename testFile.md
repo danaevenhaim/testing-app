@@ -4,7 +4,7 @@ IT has SOME lines
 
 AND SOME more
 
-we use them
+WE use them
 
 to TEST
 
