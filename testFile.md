@@ -11,7 +11,7 @@ TO TEST
 WOW
 
 Removed THE lines
-and wrote something new
+AND wrote something new
 WHO
 cleaN file
 
