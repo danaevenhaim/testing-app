@@ -1,17 +1,17 @@
-THis is a test file
+ThIs is A tEsT filE
 
-It Has some lines
+IT HAS some LINES
 
-AND some more
+AND some MORE
 
-we use them
+WE use them
 
-to test
+TO test
 
-WOW
+wow
 
-removed the lines
-and wrote something new
-who
-clean file
+REMOVeD THE lines
+AND WROTE something new
+WHO
+CLEAn file
 
