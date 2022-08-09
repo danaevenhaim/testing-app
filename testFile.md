@@ -1,6 +1,6 @@
 THis is a test file
 
-It has some lines
+It Has some lines
 
 and some more
 
