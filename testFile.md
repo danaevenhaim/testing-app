@@ -2,7 +2,7 @@ THis is a test file
 
 It has some lines
 
-and some more
+AND some more
 
 we use them
 
