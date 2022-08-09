@@ -1,4 +1,4 @@
-tHIS is a test file
+tHiS is a test file
 
 It Has some lines
 
