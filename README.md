@@ -1,2 +1,2 @@
-# ReMOvE the previous line
+# REMOvE the previous line
 
