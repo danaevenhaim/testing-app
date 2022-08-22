@@ -4,14 +4,14 @@ name: This is a Doc
 file_version: 1.0.2
 app_version: 0.7.6-1
 file_blobs:
-  README.md: 4ddac012fe8704f9b7477f01f1b498182a9cf6d1
+  README.md: 295b556868363ec617fd69657e04dcf3d6fcd5cf
   testFile.md: 0c7c38195b64c06e1ae0b7dc490c60c07ff7f191
 ---
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 README.md
 ```markdown
-🟩 1      # remOvE the previous line
+🟩 1      # ReMOVE the previous line
 ```
 
 <br/>
