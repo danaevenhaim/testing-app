@@ -4,19 +4,18 @@ name: TestSlack_2022-06-19
 file_version: 1.0.2
 app_version: 0.8.9-2
 file_blobs:
-  test/a.py: e3046eecae07d26804ee7a5fe672353111c04765
+  a.py: aec67883b318716dc7d7f9dfcdf93dec55023135
 ---
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 test/a.py
+### 📄 a.py
 ```python
 ⬜ 1      # new a.py file
 ⬜ 2      
 🟩 3      def main():
-🟩 4         print('wiP)'
+🟩 4         print('wIP)'
 ⬜ 5       
 ⬜ 6      
-⬜ 7      
 ```
 
 <br/>
