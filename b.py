@@ -13,4 +13,5 @@ def foo(a):
 		print("a is Smaller")
 
 
-
+def kaka(a):
+	return 5
